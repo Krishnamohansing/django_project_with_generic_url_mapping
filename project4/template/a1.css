@@ -1,0 +1,36 @@
+body
+{
+border:10px dashed yellow;
+background-image:repeating-radial-gradient(blue, green);
+background-repeat:repeat;
+}
+#a1
+{
+background-color:red;
+color:blue;
+text-align:center; 
+border:10px solid green;
+margin:20px;
+padding:10px;
+}
+#a2
+{
+background-color:yellow;
+color:red;
+text-align:center;
+border:10px solid red;
+padding:20px;
+}
+#a3
+{
+background-color:orange;
+color:red;
+text-align:center;
+border:10px solid red;
+padding:20px;
+}
+#a4
+{
+background-color:yello;
+text-align:center;
+}
